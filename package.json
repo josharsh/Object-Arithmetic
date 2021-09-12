@@ -1,0 +1,26 @@
+{
+  "name": "object-arithmetic",
+  "version": "1.0.0",
+  "description": "Arithmetic capabilities to JS objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josharsh/Object-Arithmetic.git"
+  },
+  "keywords": [
+    "Object",
+    "Arithmetic",
+    "Javascript",
+    "Objects",
+    "Josharsh"
+  ],
+  "author": "josharsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josharsh/Object-Arithmetic/issues"
+  },
+  "homepage": "https://github.com/josharsh/Object-Arithmetic#readme"
+}

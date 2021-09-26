@@ -1,6 +1,6 @@
 {
   "name": "object-arithmetic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Arithmetic capabilities to JS objects",
   "main": "index.js",
   "scripts": {

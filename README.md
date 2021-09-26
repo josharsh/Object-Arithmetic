@@ -3,7 +3,7 @@ Arithmetic Capabilities to Javascript Objects
 
 # How to use
 ```js
-import {add} from "ObjArith"
+import {add} from "object-arithmetic"
 let a={
     name:"Harsh",
     age: 19
